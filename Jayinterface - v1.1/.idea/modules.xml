@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Jayinterface/.idea/Jayinterface.iml" filepath="$PROJECT_DIR$/../Jayinterface/.idea/Jayinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jayinterface - v1.1.iml" filepath="$PROJECT_DIR$/.idea/Jayinterface - v1.1.iml" />
+    </modules>
+  </component>
+</project>
