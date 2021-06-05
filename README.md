@@ -54,7 +54,7 @@ Learning by Visualising is Fun
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot](algothum.jpeg)
+![Screenshot](algomainframe.jpg)
 ![Screenshot](astar.jpg)
 ![Screenshot](buble.jpg)
 ![Screenshot](inseertion.jpg)
