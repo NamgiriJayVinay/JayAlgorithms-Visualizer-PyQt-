@@ -126,8 +126,6 @@ This can be used for getting a clear understanding of How does an Algorithm work
 
 Jay - [@https://www.linkedin.com/in/jay-vinay/](https://www.linkedin.com/in/jay-vinay/)
 
-My Website - [https://www.jayvinay.com/](https://www.jayvinay.com/)
-
 
 Project  Landing Page: [https://jays-algorithms-visualiser-pyqt.netlify.app/](https://jays-algorithms-visualiser-pyqt.netlify.app/)
 
@@ -139,8 +137,6 @@ Project  Source code Link: [https://github.com/NamgiriJayVinay/JayAlgorithms-Vis
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://www.jayvinay.com/
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jay-vinay/
 [product-screenshot]: images/ss.png
